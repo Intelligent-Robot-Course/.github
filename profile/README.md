@@ -1,8 +1,14 @@
 # Intelligent Robotics course🙌🤖
 ----
 
-In this course, you will learn the basic theoretical knowledge of the robotics and the common robotics algorithms such as localization, mapping, planning and collision avoidance.
+In this course, you will learn the basic theoretical knowledge of the robotics and the common robotics algorithms such as localization, mapping, planning, and collision avoidance.
  
+## TextBook
 
+[Probabilistic Robotics](https://docs.ufpr.br/~danielsantos/ProbabilisticRobotics.pdf)
+[Reinforcement Learning](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf)
 
+## Information
 
+*Sustech course*
+*Instructor: Professor Qi Hao*
