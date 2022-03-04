@@ -5,7 +5,7 @@ In this course, you will learn the basic theoretical knowledge of the robotics a
  
 ## TextBook
 
-[Probabilistic Robotics](https://docs.ufpr.br/~danielsantos/ProbabilisticRobotics.pdf)
+[Probabilistic Robotics](https://docs.ufpr.br/~danielsantos/ProbabilisticRobotics.pdf)   
 [Reinforcement Learning](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf)
 
 ## Assignment
@@ -15,5 +15,5 @@ In this course, you will learn the basic theoretical knowledge of the robotics a
 
 ## Information
 
-*Sustech course*
+*Sustech course*  
 *Instructor: Professor Qi Hao*
