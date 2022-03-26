@@ -6,7 +6,7 @@ In this course, you will learn the basic theoretical knowledge of the robotics a
 ## TextBook
 
 [Probabilistic Robotics](https://docs.ufpr.br/~danielsantos/ProbabilisticRobotics.pdf)   
-[Reinforcement Learning](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf)
+[Reinforcement Learning](http://www.incompleteideas.net/book/RLbook2020.pdf)
 
 ## Assignment
 
