@@ -10,8 +10,7 @@ In this course, you will learn the basic theoretical knowledge of the robotics a
 
 ## Assignment
 
-[homework1](https://github.com/Intelligent-Robot-Course/Homework/tree/main/hw1)   
-[homework2](https://github.com/Intelligent-Robot-Course/Homework/tree/main/hw2)
+All homework are in the repository [homework](https://github.com/Intelligent-Robot-Course/Homework)   
 
 ## Information
 
